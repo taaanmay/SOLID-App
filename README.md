@@ -31,7 +31,7 @@ npm install buffer
 ```
 
 ### Installing Webpack
-[Link to Documentation]([https://www.google.com](https://webpack.js.org/concepts/))
+[Link to documentation](https://webpack.js.org/concepts/)
 ```
 npm install webpack webpack-cli webpack-dev-server css-loader style-loader --save-dev
 ```
